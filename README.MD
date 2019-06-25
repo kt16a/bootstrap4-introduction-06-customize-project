@@ -1,2 +1,7 @@
-# An Introduction to Bootstrap 4
-This repository holds the source code for my [YouTube series](https://www.academind.com/learn/css/bootstrap-4-tutorial/) on [Bootstrap 4](http://getbootstrap.com/).
+Bootstrap 4 Theme Customization (with Sass)
+https://www.youtube.com/watch?v=6Ovw43Dkp44
+
+npm init
+npm install bootstrap --save
+add main.scss
+sass main.scss main.css
